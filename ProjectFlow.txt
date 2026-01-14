@@ -1,2 +1,6 @@
-1.create a git repo and clone it in local
+create a git repo and clone it in local
 creat a code.py and add code to it
+
+pip install dvc
+now we do "dvc init" 
+now we do make s3 folder
